@@ -56,6 +56,7 @@ PMM Client uses Prometheus exporters. Applications store their metrics in arbitr
 - [Percona MySQL Exporter](https://github.com/percona/mysqld_exporter) - Prometheus exporter for MySQL server metrics.
 - [Percona MongoDB Exporter](https://github.com/percona/mongodb_exporter) - Based on [MongoDB Exporter](https://github.com/dcu/mongodb_exporter) by [David Cuadrado](https://github.com/dcu)
 - [PostgreSQL Server Exporter](https://github.com/percona/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+- [Percona ProxySQL Exporter](https://github.com/percona/proxysql_exporter) - Prometheus exporter for ProxySQL performance data.
 - [Percona RDS Exporter](https://github.com/percona/rds_exporter) - An AWS RDS exporter for Prometheus. It gets metrics from both basic CloudWatch Metrics and RDS Enhanced Monitoring via CloudWatch Logs.
 
 ### Community Exporters
