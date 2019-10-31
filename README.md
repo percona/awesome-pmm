@@ -2,11 +2,13 @@
 
 A curated list of awesome Percona Monitoring and Management (PMM) free and opensource software, libraries and resources. 
 
-Single pane of glass for managing and monitoring the performance of your MySQL, MariaDB, PostgreSQL, and MongoDB databases.
+Percona Monitoring and Management (PMM) is a single pane of glass to help manage complex database environments in public, private or on-premises environments.
+
+Designed to help DBAs and developers gain deep insight into their applications and databases, PMM is used by thousands of organizations around the globe to manage complex database environments.
 
 ## Resources
 
-- [Official website](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Product page on percona.com.
+- [Official website](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Landing page
 - [Demo](https://pmmdemo.percona.com/graph/) - pmmdemo.percona.com.
 - [Jira](https://jira.percona.com/projects/PMM/issues/) - issue tracker. Use the JIRA to report a bug.
 - [Blog](https://www.percona.com/blog/tag/pmm/) - news, cases, lessons, webinars and articles.
