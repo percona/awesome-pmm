@@ -7,7 +7,7 @@ Single pane of glass for managing and monitoring the performance of your MySQL, 
 ## Resources
 
 - [Official website](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Product page on percona.com.
-- [Demo](https://pmmdemo.percona.com/graph/) - pmmdemo.percona.com
+- [Demo](https://pmmdemo.percona.com/graph/) - pmmdemo.percona.com.
 - [Jira](https://jira.percona.com/projects/PMM/issues/) - issue tracker. Use the JIRA to report a bug.
 - [Blog](https://www.percona.com/blog/tag/pmm/) - news, cases, lessons, webinars and articles.
 - [Forum](https://www.percona.com/forums/questions-discussions/percona-monitoring-and-management) - the best place for non-Customers looking for free PMM Help.
@@ -16,7 +16,7 @@ Single pane of glass for managing and monitoring the performance of your MySQL, 
 - [Download](https://www.percona.com/downloads/pmm2/) - download Percona Monitoring and Management
 - [Installation](https://www.percona.com/doc/percona-monitoring-and-management/2.x/install/index-server.html) - Percona Monitoring and Management (PMM) employs a client/server model. You must download and install both the client and server applications. 
 - [GitHub](https://github.com/percona/pmm) - the main repository. You can find links to other PMM repositories.
-- [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server
+- [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server.
 
 
 ## Video
@@ -27,7 +27,7 @@ Single pane of glass for managing and monitoring the performance of your MySQL, 
 
 ## Dashboards 
 
-PMM Server uses Grafana Dashboards
+PMM Server uses Grafana Dashboards.
 
 ### Resources
 
@@ -38,7 +38,7 @@ PMM Server uses Grafana Dashboards
 
 - [MySQL InnoDB Mutex](https://grafana.com/grafana/dashboards/9892) - by Daniel Guzman-Burgos. [Configuration article](https://www.percona.com/blog/2019/03/12/pmms-custom-queries-in-action-adding-a-graph-for-innodb-mutex-waits/).
 - [System Processes Metrics](https://grafana.com/grafana/dashboards/8378) - by chaudhryfaisal. Show Linux Process information as captured by [process-exporter](https://github.com/ncabatoff/process-exporter).
-– [Clickhouse Grafana Dashboard](https://grafana.com/grafana/dashboards/882) – by Yegor Andreenko for [Clickhouse Exporter for Prometheus](https://github.com/percona-lab/clickhouse_exporter) 
+– [Clickhouse Grafana Dashboard](https://grafana.com/grafana/dashboards/882) – by Yegor Andreenko for [Clickhouse Exporter for Prometheus](https://github.com/percona-lab/clickhouse_exporter).
 
 ## Exporters
 
@@ -53,9 +53,9 @@ PMM Client uses Prometheus exporters. Applications store their metrics in arbitr
 
 ### Percona
 - [Percona Node Exporter](https://github.com/percona/node_exporter) - Prometheus exporter for hardware and OS metrics exposed by \*NIX kernels, written in Go with pluggable metric collectors.
-- [Percona MySQL Exporter](https://github.com/percona/mysqld_exporter) - Prometheus exporter for MySQL server metrics. Supported MySQL versions: 5.1 and up. NOTE: Not all collection methods are supported on MySQL < 5.6
+- [Percona MySQL Exporter](https://github.com/percona/mysqld_exporter) - Prometheus exporter for MySQL server metrics.
 - [Percona MongoDB Exporter](https://github.com/percona/mongodb_exporter) - Based on [MongoDB Exporter](https://github.com/dcu/mongodb_exporter) by [David Cuadrado](https://github.com/dcu)
-- [PostgreSQL Server Exporter](https://github.com/percona/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics. Supported Postgres versions: 9.1 and up.
+- [PostgreSQL Server Exporter](https://github.com/percona/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 - [Percona RDS Exporter](https://github.com/percona/rds_exporter) - An AWS RDS exporter for Prometheus. It gets metrics from both basic CloudWatch Metrics and RDS Enhanced Monitoring via CloudWatch Logs.
 
 ### Community Exporters
