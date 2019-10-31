@@ -15,7 +15,7 @@ Single pane of glass for managing and monitoring the performance of your MySQL, 
 - [Documentation](https://www.percona.com/doc/percona-monitoring-and-management/2.x/index.html) - excellent online documentation. How to install, configure and use.
 - [Download](https://www.percona.com/downloads/pmm2/) - download Percona Monitoring and Management
 - [Installation](https://www.percona.com/doc/percona-monitoring-and-management/2.x/install/index-server.html) - Percona Monitoring and Management (PMM) employs a client/server model. You must download and install both the client and server applications. 
-- [GitHub](https://github.com/percona/pmm) - the main repository. You can find links to other PMM repositories.
+- [GitHub](https://github.com/percona/pmm/tree/PMM-2.0) - the main repository. You can find links to other PMM repositories.
 - [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server.
 
 
