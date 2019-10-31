@@ -1,10 +1,22 @@
-# awesome-pmm
+# Awesome PMM
 
-A curated list of awesome Percona Monitoring and Management (PMM) free and opensource software, libraries and resources. 
+A curated list of awesome Percona Monitoring and Management (PMM) free and open-source software, libraries and resources. 
 
 Percona Monitoring and Management (PMM) is a single pane of glass to help manage complex database environments in public, private or on-premises environments.
 
 Designed to help DBAs and developers gain deep insight into their applications and databases, PMM is used by thousands of organizations around the globe to manage complex database environments.
+
+## Content
+
+- [Resources](#resources)
+	- [Video](#video)
+- [Dashboards](#dashboards)
+    - [Resources](#resources-1)
+    - [Community Dashboards](#community-dashboards)
+- [Exporters](#exporters)
+	- [Resources](#resources-2)
+	- [Percona](#percona)
+	- [Community Exporters](#community-exporters)
 
 ## Resources
 
@@ -21,7 +33,7 @@ Designed to help DBAs and developers gain deep insight into their applications a
 - [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server.
 
 
-## Video
+### Video
 
 - [What is new in Percona Monitoring and Management 2?](https://www.youtube.com/watch?v=Tlxo2BMf9-c) – by Michael Coburn (Percona). [Official website](https://www.percona.com/resources/videos/whats-new-pmm2).
 - [Monitoring MongoDB with Percona Monitoring and Management (PMM)](https://www.youtube.com/watch?v=FqdSs9H7mBM) – by Doug Duncan (Percona), Adamo Tonete (Percona). [Official website](https://www.percona.com/resources/videos/automate-pmm-deployment-ansible).
