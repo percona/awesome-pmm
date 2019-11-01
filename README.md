@@ -53,7 +53,7 @@ PMM Server uses Grafana Dashboards.
 - [MySQL InnoDB Mutex](https://grafana.com/grafana/dashboards/9892) - by Daniel Guzman-Burgos. [Configuration article](https://www.percona.com/blog/2019/03/12/pmms-custom-queries-in-action-adding-a-graph-for-innodb-mutex-waits/).
 - [System Processes Metrics](https://grafana.com/grafana/dashboards/8378) - by chaudhryfaisal. Show Linux Process information as captured by [process-exporter](https://github.com/ncabatoff/process-exporter).
 - [Clickhouse Grafana Dashboard](https://grafana.com/grafana/dashboards/882) – by Yegor Andreenko for [Clickhouse Exporter for Prometheus](https://github.com/percona-lab/clickhouse_exporter).
-- [MySQL InnoDB Cluster] Group Replication (https://grafana.com/grafana/dashboards/10006) - by Valentin Traen. [Custom Queries example](https://github.com/valentinmysql/MySQL-PMM-innodb_cluster_monitoring)
+- [MySQL InnoDB Cluster Group Replication](https://grafana.com/grafana/dashboards/10006) - by Valentin Traen. [Custom Queries example](https://github.com/valentinmysql/MySQL-PMM-innodb_cluster_monitoring)
 
 ## Exporters
 
