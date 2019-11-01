@@ -6,6 +6,8 @@ Percona Monitoring and Management (PMM) is a single pane of glass to help manage
 
 Designed to help DBAs and developers gain deep insight into their applications and databases, PMM is used by thousands of organizations around the globe to manage complex database environments.
 
+This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/dbazhenov/awesome-pmm/blob/master/CONTRIBUTING.md)
+
 ## Content
 
 - [Resources](#resources)
