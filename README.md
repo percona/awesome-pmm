@@ -9,7 +9,7 @@ Designed to help DBAs and developers gain deep insight into their applications a
 ## Content
 
 - [Resources](#resources)
-	- [Video](#video)
+	- [Videos](#videos)
 - [Dashboards](#dashboards)
     - [Resources](#resources-1)
     - [Community Dashboards](#community-dashboards)
@@ -33,9 +33,9 @@ Designed to help DBAs and developers gain deep insight into their applications a
 - [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server.
 
 
-### Video
+### Videos
 
-- [What is new in Percona Monitoring and Management 2?](https://www.youtube.com/watch?v=Tlxo2BMf9-c) – by Michael Coburn (Percona). [Official website](https://www.percona.com/resources/videos/whats-new-pmm2).
+- [What is new in PMM2?](https://www.youtube.com/watch?v=Tlxo2BMf9-c) – by Michael Coburn (Percona). [Official website](https://www.percona.com/resources/videos/whats-new-pmm2).
 - [Monitoring MongoDB with Percona Monitoring and Management (PMM)](https://www.youtube.com/watch?v=FqdSs9H7mBM) – by Doug Duncan (Percona), Adamo Tonete (Percona). [Official website](https://www.percona.com/resources/videos/automate-pmm-deployment-ansible).
 - [Automate PMM Deployment with Ansible](https://www.youtube.com/watch?v=OjKcSQOzNeQ) – by Max Bubenick (Percona). [Official website](https://www.percona.com/resources/videos/automate-pmm-deployment-ansible).
 
@@ -53,6 +53,7 @@ PMM Server uses Grafana Dashboards.
 - [MySQL InnoDB Mutex](https://grafana.com/grafana/dashboards/9892) - by Daniel Guzman-Burgos. [Configuration article](https://www.percona.com/blog/2019/03/12/pmms-custom-queries-in-action-adding-a-graph-for-innodb-mutex-waits/).
 - [System Processes Metrics](https://grafana.com/grafana/dashboards/8378) - by chaudhryfaisal. Show Linux Process information as captured by [process-exporter](https://github.com/ncabatoff/process-exporter).
 - [Clickhouse Grafana Dashboard](https://grafana.com/grafana/dashboards/882) – by Yegor Andreenko for [Clickhouse Exporter for Prometheus](https://github.com/percona-lab/clickhouse_exporter).
+- [MySQL InnoDB Cluster] Group Replication (https://grafana.com/grafana/dashboards/10006) - by Valentin Traen. [Custom Queries example](https://github.com/valentinmysql/MySQL-PMM-innodb_cluster_monitoring)
 
 ## Exporters
 
