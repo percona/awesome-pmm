@@ -22,7 +22,8 @@ Designed to help DBAs and developers gain deep insight into their applications a
 
 - [Official website](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Landing page
 - [Demo](https://pmmdemo.percona.com/graph/) - pmmdemo.percona.com.
-- [Jira](https://jira.percona.com/projects/PMM/issues/) - issue tracker. Use the JIRA to report a bug.
+- [Jira](https://jira.percona.com/projects/PMM/issues/) - issue tracker. Use JIRA to suggest improvements or to report a bug. You can select a task and solve it to become a PMM contributor.
+- [FAQ](https://www.percona.com/doc/percona-monitoring-and-management/faq.html) - answers to the most popular questions.
 - [Blog](https://www.percona.com/blog/tag/pmm/) - news, cases, lessons, webinars and articles.
 - [Forum](https://www.percona.com/forums/questions-discussions/percona-monitoring-and-management) - the best place for non-Customers looking for free PMM Help.
 - [User manual](https://learn.percona.com/download-percona-monitoring-and-management-pmm-manual-2-0) - Download PDF. Operations Manual is 200 pages of easily referenced documentation in PDF format.
