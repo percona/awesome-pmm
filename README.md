@@ -45,7 +45,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://dbazh
 
 ### Community Blogs
 
+<<<<<<< HEAD
 – [Setting up a High Availability for PMM](https://mydbops.wordpress.com/2019/10/17/setting-up-a-high-availability-for-pmm/) – by Mydbops IT Solutions.
+=======
+- [Setting up a High Availability for PMM](https://mydbops.wordpress.com/2019/10/17/setting-up-a-high-availability-for-pmm/) – by Mydbops IT Solutions.
+- Add your blog here
+>>>>>>> master
 
 ## Dashboards 
 
