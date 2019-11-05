@@ -12,6 +12,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Resources](#resources)
 	- [Videos](#videos)
+	- [Community Blogs](#community-blogs)
 - [Dashboards](#dashboards)
     - [Resources](#resources-1)
     - [Community Dashboards](#community-dashboards)
@@ -41,6 +42,11 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [What is new in PMM2?](https://www.youtube.com/watch?v=Tlxo2BMf9-c) – by Michael Coburn (Percona). [Official website](https://www.percona.com/resources/videos/whats-new-pmm2).
 - [Monitoring MongoDB with Percona Monitoring and Management (PMM)](https://www.youtube.com/watch?v=FqdSs9H7mBM) – by Doug Duncan (Percona), Adamo Tonete (Percona). [Official website](https://www.percona.com/resources/videos/automate-pmm-deployment-ansible).
 - [Automate PMM Deployment with Ansible](https://www.youtube.com/watch?v=OjKcSQOzNeQ) – by Max Bubenick (Percona). [Official website](https://www.percona.com/resources/videos/automate-pmm-deployment-ansible).
+
+### Community Blogs
+
+– [Setting up a High Availability for PMM](https://mydbops.wordpress.com/2019/10/17/setting-up-a-high-availability-for-pmm/) – by Mydbops IT Solutions.
+
 
 ## Dashboards 
 
