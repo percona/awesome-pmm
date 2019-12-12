@@ -25,6 +25,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Official website](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Landing page
 - [Demo](https://pmmdemo.percona.com/graph/) - pmmdemo.percona.com.
+— [PMM Contributions Overview](https://www.percona.com/community/contributions/pmm) – Learn how to become an active contributor within the PMM community.
 - [Jira](https://jira.percona.com/projects/PMM/issues/) - issue tracker. Use JIRA to suggest improvements or to report a bug. You can select a task and solve it to become a PMM contributor.
 - [FAQ](https://www.percona.com/doc/percona-monitoring-and-management/faq.html) - answers to the most popular questions.
 - [Blog](https://www.percona.com/blog/tag/pmm/) - news, cases, lessons, webinars and articles.
