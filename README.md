@@ -38,8 +38,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Docker](https://hub.docker.com/r/percona/pmm-server) - Docker images of PMM Server.
 
 ### Contribute to PMM
-– [Google Summer of Code (GSoC) 2020](https://www.percona.com/googlesummerofcode2020) – PMM is participating* in the GSoC 2020, and sees it as an excellent opportunity for students to participate in the active and vibrant open source community.
-- [How To Contribute to PMM Documentation](https://www.percona.com/community-blog/2020/01/28/how-to-contribute-to-pmm-documentation/) – PMM documentation contribution guide.
+
+- [Google Summer of Code GSoC 2020](https://www.percona.com/googlesummerofcode2020) - PMM is participating* in the GSoC 2020, and sees it as an excellent opportunity for students to participate in the active and vibrant open source community.
+- [How To Contribute to PMM Documentation](https://www.percona.com/community-blog/2020/01/28/how-to-contribute-to-pmm-documentation/) - PMM documentation contribution guide.
 
 ### Videos
 
